@@ -1,0 +1,35 @@
+{
+
+
+    "portfolio": [
+
+        {
+            "cover": "/portfolio/1/Screenshot 2022-09-16 at 10.35.21.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+
+        {
+            "cover": "/portfolio/1/Screenshot 2022-09-16 at 10.42.57.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/1/Screenshot 2022-09-16 at 10.39.20.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+
+        {
+            "cover": "/portfolio/1/Screenshot 2022-09-16 at 10.38.14.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        }
+    ]
+}
+
+
